@@ -1,6 +1,6 @@
 # rtos-kernel
 “RTOS kernel project for class”
-rtos-kernel/
+"""rtos-kernel/
 ├── include/           # Header files (.h)
 │   ├── scheduler.h
 │   ├── interrupts.h
@@ -13,4 +13,4 @@ rtos-kernel/
 │   └── main.c
 ├── tests/             # Test files
 ├── docs/              # Documentation
-└── README.md
+└── README.md"""
